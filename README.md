@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Haikal!
 
-<!--
-**HaikalAkbar13/HaikalAkbar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      I am a <b>Beginner Backend Engineer</b>.<br /><br />
+      I love building Backend Applications, experimenting with new technologies, and creating tools that simplify everyday workflows.
+    </td>
+    <!--
+    <td width="30%" valign="top">
+      Explore my portfolio & projects:<br />
+      <a href="https://github.com/haikalakbar13"><b>haikalakbar13</b></a><br /><br />
+      You might see something cool 😉
+    </td>
+    -->
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li><b>Frontend:</b> React, TypeScript, Tailwind CSS, Vite</li>
+        <li><b>Backend:</b> Python, Django, FastAPI, PostgreSQL, Redis, Celery</li>
+        <li><b>DevOps & Tools:</b> Git, GitHub Actions, Linux,</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,py,django,fastapi,postgres,redis,docker,git,github,linux&perline=8" alt="Tech Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
